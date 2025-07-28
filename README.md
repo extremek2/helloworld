@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0293e672-b9b3-40f9-b61e-ead7767e5a45" /># helloworld
+# helloworld
 헬로우월드입니다.
 markdown language를 쓴다.
 나무위키, 위키피디아
