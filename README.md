@@ -5,3 +5,5 @@ markdown language를 쓴다.
 # 제목
 ## 작은 제목
 ### 더작은 제목
+<img src='archi.jpg'>
+
