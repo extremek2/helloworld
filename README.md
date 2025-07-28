@@ -3,6 +3,14 @@
 markdown language를 쓴다.
 나무위키, 위키피디아
 # 개발자 소개
+|제목|내용|설명|
+|------|---|---|
+|이름|송준영|   |
+|기술|frontend|html, css, js, kotlin|
+|    |backend|dkango, flask|
+|    |database|oracle|
+
+
 # 작품 1 - django framework 활용한 게시판 만들기
 ### 설계도
 <img src='archi.jpg'>
