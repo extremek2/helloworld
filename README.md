@@ -29,7 +29,7 @@ markdown language를 쓴다.
 
 # 📜 송준영 포트폴리오
 
-> 송준영(JunYoung Song) - kimphysicsman 포트폴리오
+> 송준영(JunYoung Song) - extremek2 포트폴리오
 
 <br />
 
