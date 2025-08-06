@@ -32,7 +32,7 @@ markdown language를 쓴다.
 > 송준영(JunYoung Song) - extremek2 포트폴리오
 
 <br />
-
+<!--
 # 👋 Intro
 
 > 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 송준영입니다!  
@@ -172,3 +172,4 @@ markdown language를 쓴다.
 - 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
+-->
